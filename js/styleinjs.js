@@ -9,7 +9,7 @@ for(const section of sections){
 // const placesContainer = document.getElementById('places-container');
 // placesContainer.style.backgroundColor = 'yellow'
 
-const placesContainer = document.getElementById('places-container');
-placesContainer.classList.add('text-center');
-placesContainer.classList.remove('large-text');
-placesContainer.classList
+//const placesContainer = document.getElementById('places-container');
+// placesContainer.classList.add('text-center');
+// placesContainer.classList.remove('large-text');
+// placesContainer.classList
